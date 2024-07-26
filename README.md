@@ -1,1 +1,1 @@
-# Testing out the digital clock and it's effectiveness.
+# Meme clock that I made as a joke.
